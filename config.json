@@ -1,0 +1,12 @@
+{
+    "bound": [],
+    "last_address": "0.0.0.0",
+    "msg_cmd_bind": "This chat is now bound!",
+    "msg_cmd_ip": "The current IP address is: %s.",
+    "msg_cmd_unbind": "Chat unbound.",
+    "msg_ip_changed": "**WARNING:** New IP address: %s!",
+    "port": 0,
+    "prefix": "+",
+    "timer_timeout": 60,
+    "token": "token-here"
+}

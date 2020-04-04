@@ -1,0 +1,3 @@
+source bot-env/bin/activate
+python3 __init__.py
+deactivate
